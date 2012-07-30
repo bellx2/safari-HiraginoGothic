@@ -17,7 +17,12 @@ Safari 6.0でデフォルトフォントの指定が消えてしまい、明朝�
     body {
       font-family: 'Hiragino Maru Gothic Pro';
     }
-  
+
+注意
+--------
+Info.plistのCFBundleIdentifier/Update Manifest URLは作成者の環境にあわせてください。
+
+
 関連情報
 --------
 1. [べるべる研究日誌　Safari6の標準フォントを丸ゴシックにする機能拡張](http://d.hatena.ne.jp/bellx2/20120727/p1 "べるべる研究日誌")
