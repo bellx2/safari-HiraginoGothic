@@ -12,15 +12,16 @@ Safari 6.0でデフォルトフォントの指定が消えてしまい、明朝�
 - パッケージをビルドをクリックすると機能拡張が作られます。
 
 ※パッケージをビルドするにはAppleから取得するSafariの開発署名が必要です
+
  
 ### 適用するCSSの内容 ###
     body {
       font-family: 'Hiragino Maru Gothic Pro';
     }
 
-注意
+使用上の注意
 --------
-Info.plistのCFBundleIdentifier/Update Manifest URLは作成者の環境にあわせてください。
+Info.plistのCFBundleIdentifier/Update Manifest URL/Websiteは作成者の環境にあわせて適切に変更してください。
 
 
 関連情報
